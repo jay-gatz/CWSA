@@ -91,10 +91,7 @@ If you use this work in your research, please cite:
 
 ```bibtex
 @article{cwsa2024,
-  title={CWSA: Confidence-Weighted Selective Accuracy for Trust-Aware Model Evaluation},
-  author={Shahnazari, Kourosh and Collaborators},
-  journal={Preprint},
-  year={2024}
+
 }
 ```
 
